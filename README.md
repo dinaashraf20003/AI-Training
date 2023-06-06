@@ -21,6 +21,7 @@ Developed logistic regression model for puchasing, the model predicts wether the
 
 ## Compltetion Certificate 
 
+![Digital Hub](https://github.com/dinaashraf20003/AI-Training/assets/73821958/6a896f8e-9fb1-478c-be97-6e089384494f)
 
-![Compltetion Cerificate](https://github.com/dinaashraf20003/AI-Training/assets/73821958/1023000c-2d75-48ab-b13b-c74facefeff9)
+
 
